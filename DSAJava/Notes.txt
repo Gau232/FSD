@@ -1,0 +1,6 @@
+Note #1:
+To read the contents of stack:
+old way: pop each element and reverse the array
+new way: use for each -> example: for(char ch : stack){}
+
+Note #2:
